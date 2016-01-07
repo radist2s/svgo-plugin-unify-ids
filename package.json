@@ -1,0 +1,17 @@
+{
+  "name": "svgo-plugin-unify-ids",
+  "version": "1.0.0",
+  "description": "SVGO plugin that removes unused IDs and minifies used but keeps it unique",
+  "main": "svgo-unifyIDs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "svgo",
+    "plugin",
+    "unique",
+    "ids"
+  ],
+  "author": "Alex Batalov",
+  "license": "MIT"
+}
