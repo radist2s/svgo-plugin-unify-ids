@@ -13,5 +13,13 @@
     "ids"
   ],
   "author": "Alex Batalov",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radist2s/svgo-plugin-unify-ids.git"
+  },
+  "bugs": {
+    "url": "https://github.com/radist2s/svgo-plugin-unify-ids/issues"
+  },
+  "homepage": "https://github.com/radist2s/svgo-plugin-unify-ids#readme"
 }
